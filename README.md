@@ -6,13 +6,13 @@
 
 I decided it would be interesting to learn to download and work with data I can later use for the Econometrics course project. I decided to use data on public procurement in Russia under federal law 44 (FL 44). This data is located on ftp server of website. 
 
-The hypothetical research question:
+## The hypothetical research question:
 
 The most common procurement type under this federal law is procurement through electronic auctions. There are 2 types of electronic auctions procedure: short electronic auction and long electronic auctions. Short electronic auctions allow finishing procurement procedures (application, registration and etc ) much faster than the long ones.
 
-## Reform: 
+**Reform:**  Electronic auction purchase was qualified as a short auction if the maximum sum envisioned by the buyer was below 3 mln rubles. On 1st of July 2019 (01-07-2019) it changed. Now short auctions are up to 300 mln rubles. 
 
-Electronic auction purchase was qualified as a short auction if the maximum sum envisioned by the buyer was below 3 mln rubles. On 1st of July 2019 (01-07-2019) it changed. Now short auctions are up to 300 mln rubles. Purchases with larger sum may be more likely to be corrupted and now they even have easier procedures. So, I want to see which impact this reform had on procurement outcomes.
+Purchases with larger sum may be more likely to be corrupted and now they even have easier procedures. So, I want to see which impact this reform had on procurement outcomes.
 
 **Control group** - purchases below 3 mln rubles and higher 300 mln rubles. For them nothing changed.
 
